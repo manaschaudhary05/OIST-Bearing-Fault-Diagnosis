@@ -255,6 +255,6 @@ Final research notebook completed.
 The repository contains the reproducible notebook, exported experimental results, research figures, dependency specification, and documentation.
 ---
 Author
-Aditi Gaonkar  
+Manas Chaudhary  
 Electronics & Communication Engineering (AI & ML)  
 MIT World Peace University

@@ -1,0 +1,3 @@
+representation,values_per_window,float32_memory_bytes,memory_KB
+DSP feature vector,12,48,0.046875
+Raw waveform window,12000,48000,46.875

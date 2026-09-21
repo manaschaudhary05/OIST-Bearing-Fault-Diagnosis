@@ -1,0 +1,8 @@
+section,item,metric,value
+held_out_test,Tuned SVM,weighted_f1,0.8308196723059748
+held_out_test,Tuned Random Forest,weighted_f1,0.899644925068762
+held_out_test,1D-CNN,weighted_f1,0.964878562142754
+validation,train_test_recording_overlap,count,0.0
+cnn_validation,class_coverage,fraction,0.75
+representation,raw_to_feature_memory_ratio,ratio,1000.0
+edge_profile,cnn_parameters,count,6084.0

@@ -1,0 +1,8 @@
+item,value,unit
+DSP + feature extraction,0.006536589499978618,seconds/window
+Tuned SVM inference,0.0028093022499933794,seconds/sample
+Tuned Random Forest inference,0.05639235338000162,seconds/sample
+1D-CNN inference,0.10896058960000801,seconds/sample
+DSP feature vector memory,0.046875,KB/window
+Raw waveform window memory,46.875,KB/window
+1D-CNN parameters,6084.0,parameters
